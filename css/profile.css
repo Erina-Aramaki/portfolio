@@ -111,7 +111,7 @@ h3 {
     width: 800px;
     box-sizing: border-box;
     flex-wrap: wrap;
-    margin-left: 100px;
+    /* margin-left: 100px; */
 }
 
 #work dt{
@@ -121,12 +121,12 @@ h3 {
 
 
 #work dd.job_name{
-    width: 35%;
+    width: 30%;
     
 }
 
 #work dd.job_contents{
-    width: 35%;
+    width: 40%;
     margin: auto;
 }
 
